@@ -1,0 +1,16 @@
+{
+  "name": "p2p-node-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "gun": "^0.2020.520"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
